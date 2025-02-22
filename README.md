@@ -17,11 +17,12 @@ This project implements a **simple text search engine** in Java that reads multi
     ├── InvertedIndex.java     # Constructs and manages the inverted index
     ├── PostingList.java       # Represents a list of document IDs where a term appears
     ├── SimpleSearch.java      # Implements search functionality using the inverted index
-    ├── Frankenstein.txt       # Sample document
-    ├── Jane.txt               # Sample document
-    ├── Pride.txt              # Sample document
-    ├── Scarlet.txt            # Sample document
-    └── searchproject.iml      # IntelliJ IDEA project file
+    ├── searchproject.iml      # IntelliJ IDEA project file 
+    └── txt
+        ├── Jane.txt               # Sample document
+        ├── Pride.txt              # Sample document
+        ├── Scarlet.txt            # Sample document
+        └── Frankenstein.txt       # Sample document
 
 ## 🚀 Installation & Usage
 
