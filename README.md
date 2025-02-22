@@ -2,7 +2,7 @@
 
 This project implements a **simple text search engine** in Java that reads multiple documents, tokenizes their content, and stores occurrences in an **Inverted Index**. This allows for efficient full-text searches across a collection of documents.
 
-## 📌 Features
+## 📌 Features 
 
 - **Document Parsing**: Reads and processes multiple text files.
 - **Tokenization**: Breaks down text into individual terms.
